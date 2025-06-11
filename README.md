@@ -25,7 +25,7 @@ Sanseong Elementary School
   
 **Language Facilitator**           
 Fukuyama Board of Education    
-(August 2017 - July 2019_)
+(_August 2017 - July 2019_)
 - Spearheaded the creation of a prediction model to assist with annual budgeting for foreign teaching staff.
 - Conducted analytical reports to measure and enhance student performance outcomes.
 
