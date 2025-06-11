@@ -71,3 +71,4 @@ Fukuyama Board of Education
 ## 🔗 View on Kaggle
 You can also explore this project on Kaggle:  
 👉 [Pizza Sales Dashboard on Kaggle](https://www.kaggle.com/datasets/alexveezee/dashboard-addressing-the-kpis-of-a-pizza-company/data)
+![Pizza Dashboard](https://raw.githubusercontent.com/AlexVeeZee/AlexVeeZee.github.io/main/pizza_dashboard.png)
