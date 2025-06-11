@@ -61,3 +61,13 @@ Fukuyama Board of Education
 - Built a Python app managing books and authors in an SQLite database  
 - Features CRUD operations and detailed book-author queries  
 - Designed with user input validation and interactive menus
+
+#### 📊 Pizza Sales Dashboard with Power BI & SQL  
+[Project](https://github.com/AlexVeeZee/Pizza_Sales)  
+- Developed an interactive Power BI dashboard to visualize pizza sales data  
+- Used SQL to query and prepare sales data from multiple sources  
+- Analyzed sales trends, customer preferences, and regional performance  
+- Enabled data-driven decisions to optimize marketing and inventory strategies
+## 🔗 View on Kaggle
+You can also explore this project on Kaggle:  
+👉 [Pizza Sales Dashboard on Kaggle](https://www.kaggle.com/datasets/alexveezee/dashboard-addressing-the-kpis-of-a-pizza-company/data)
