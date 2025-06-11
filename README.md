@@ -43,3 +43,21 @@ Fukuyama Board of Education
 - Performed exploratory data analysis on an automobile dataset  
 - Used Python libraries like Pandas, Matplotlib, and Seaborn  
 - Identified outliers, handled missing values, and delivered insights
+
+#### 📊 USArrests EDA with Clustering Techniques  
+[Project](https://github.com/AlexVeeZee/US-Arrests-Analysis)  
+- Conducted exploratory data analysis on the USArrests dataset  
+- Applied clustering algorithms for unsupervised machine learning insights  
+- Created two detailed Jupyter notebooks showcasing analysis and modeling
+
+#### 🐍 Task Manager CLI App  
+[Project](https://github.com/AlexVeeZee/Task_Manager)  
+- Developed a Python command-line task management application  
+- Supports adding, updating, and deleting tasks  
+- Implements simple data persistence for task tracking
+
+#### 📚 eBookstore Manager Python App  
+[Project](https://github.com/AlexVeeZee/Bookstore_Inventory_Manager)  
+- Built a Python app managing books and authors in an SQLite database  
+- Features CRUD operations and detailed book-author queries  
+- Designed with user input validation and interactive menus
