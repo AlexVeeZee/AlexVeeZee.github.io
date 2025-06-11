@@ -20,7 +20,7 @@
 ## 📞 Contact Me  
 - **Phone:** (+27) 79-090-6698  
 - **Email:** [xvanzyl@gmail.com](mailto:xvanzyl@gmail.com)  
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/alexander-van-zyl-a5a195186/)
+- **LinkedIn:** [https://www.linkedin.com/in/alexander-van-zyl-a5a195186/](https://www.linkedin.com/in/alexander-van-zyl-a5a195186/)
 
 ---
 
