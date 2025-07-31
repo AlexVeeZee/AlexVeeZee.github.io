@@ -30,7 +30,7 @@ Fukuyama Board of Education
 - Conducted analytical reports to measure and enhance student performance outcomes.
 
 **Operational Analyst Intern**           
-Fukuyama Board of Education    
+Nibly Bits Ltd.   
 (_December 2013_)
 - Conducted production line efficiency analysis for administrative processes.
 - My report led to the implementation of a scanner system which increases production by 34%
